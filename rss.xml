@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>News</title>
+		<link>https://livio.netlify.com/menu.html</link>
+		<description>News about a new menu item.</description>
+		<item>
+			<title>New recipe!</title>
+			<link>https://livio.netlify.com/menu.html</link>
+			<description>Carbonara spaghetti...</description>
+		</item>
+	</channel>
+</rss>
